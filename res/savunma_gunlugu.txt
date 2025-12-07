@@ -1,0 +1,6 @@
+KAZANDINIZ.
+Dusman: 'Kara Sovalye-ID: 0 150/150 haritaya girdi.
+Dusman: 'Golge Gargoyle-ID: 1 100/100 haritaya girdi.
+Dusman: 'Goblin Yagmacisi-ID: 2 100/100 haritaya girdi.
+Dusman: 'Goblin Yagmacisi-ID: 3 100/100 haritaya girdi.
+Dusman: 'Golge Gargoyle-ID: 4 100/100 haritaya girdi.
